@@ -1,0 +1,40 @@
+{
+  "restaurant": [
+    {
+      "id": 1,
+      "name": "Pizza-Hut",
+      "address": "Noida",
+      "rating": "4.5"
+    },
+    {
+      "id": 2,
+      "name": "Maccd",
+      "address": "Kolkata",
+      "rating": "4.9"
+    },
+    {
+      "id": 3,
+      "name": "Dhaba",
+      "address": "Mumbai",
+      "rating": "4.1"
+    },
+    {
+      "id": 4,
+      "name": "Barbeque",
+      "address": "Bengaluru",
+      "rating": "3.8"
+    },
+    {
+      "id": 5,
+      "name": "Haldiram",
+      "address": "Kanchrapara",
+      "rating": "4.6"
+    },
+    {
+      "name": "Bhusan",
+      "address": "Kanchrapara",
+      "rating": "3.2",
+      "id": 6
+    }
+  ]
+}
